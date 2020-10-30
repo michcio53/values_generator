@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Flutter Development",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "debug",
+			"program": "lib/main_dev.dart",
+		},
+		{
+			"name": "Flutter Production",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "debug",
+			"program": "lib/main.dart",
+		}
+	],
+}
