@@ -23,17 +23,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hive: 1.4.4+1
+  easy_localization: 2.3.3
+  flushbar: 1.10.4
   flutter_bloc: 6.0.6
-  uuid: 2.2.2
+  formz: 0.3.2
+  freezed_annotation: 0.12.0
   get_it: 5.0.1
+  hive: 1.4.4+1
+  hive_flutter: 0.3.1
   injectable: 1.0.5
   path_provider: 1.6.22
-  formz: 0.3.2
-  easy_localization: 2.3.3
-  freezed_annotation: 0.12.0
-  flushbar: 1.10.4
-  hive_flutter: 0.3.1
+  uuid: 2.2.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -42,14 +42,14 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  pedantic:
-  injectable_generator: 1.0.5
-  build_runner:
-  freezed:
-  mockito:
   bloc_test:
-  hive_generator:
+  build_runner:
   flutter_launcher_name: 0.0.1
+  freezed:
+  hive_generator:
+  injectable_generator: 1.0.5
+  mockito:
+  pedantic:
 
 flutter_launcher_name:
   name: "Values Generator"

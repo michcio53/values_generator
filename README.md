@@ -4,7 +4,7 @@ App that shows a random value on the screen.
 
 Features:
 - support for preloading values from json
-- creating storing and deleting values in app
+- creating, storing and deleting values in app
 - saving values to favourites
 - displaying values and favourites in lists
 - light and dark theme dependent on system settings
